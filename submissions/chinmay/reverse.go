@@ -12,6 +12,8 @@ func reverseString(s string) string {
 	return string(runes)
 }
 
+// Adding a comment for Assignment 05 for PR review!
+
 func main() {
 
 	var s string
