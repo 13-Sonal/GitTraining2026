@@ -26,3 +26,8 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+
+Name: Aviraj Popat Kale
+Date: 08/01/2026
+Interested project: AI 
