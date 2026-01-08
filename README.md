@@ -26,3 +26,7 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+- Name: Atharva Patil
+- Date: 08-01-2026
+- Interested Project: Frontend
