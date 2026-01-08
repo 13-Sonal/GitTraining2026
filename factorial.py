@@ -14,5 +14,10 @@ def factorial(n: int) -> int:
     return result
 
 if __name__ == "__main__":
-    number = int(input("Enter a number: "))
-    print(factorial(number))
+    number = int(input("Enter a non-negative integer: "))
+
+    if number < 0:
+        print("Error: Factorial is not defined for negative numbers.")
+    else:
+        print(factorial(number))
+
