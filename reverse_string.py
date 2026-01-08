@@ -3,4 +3,4 @@ def reverse_string(s):
 
 text = "Ubuntu Git Training"
 print(f"Original: {text}")
-print(f"Reversed: {reverse_string(text)}")
+#print(f"Reversed: {reverse_string(text)}")
