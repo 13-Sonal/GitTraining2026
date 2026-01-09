@@ -6,7 +6,6 @@ Instructions:
 - Complete the assigned task
 - Push the branch and raise a Pull Request
 
-
 Cloning - 
 
 - Fork the repo
@@ -26,3 +25,8 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+
+Name: Tanush Abhinav Shah <br>
+Date: 07/01/2026 <br>
+Interested Project: Data Science & Machine Learning related projects like Predictive Analytics of a company.
