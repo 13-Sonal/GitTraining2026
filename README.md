@@ -26,3 +26,8 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+Name: Ishaan Bhela <br>
+Date: 07/01/2026  <br>
+Interested Project: Projects related to Backend and Cloud
+Hobbies: Video Games, Trekking, Driving car.
