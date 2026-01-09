@@ -1,0 +1,11 @@
+This is a sample file to make 3 commits.
+1) This will going to be my first commit.
+
+
+Hello again 
+2. This will be my 2nd commit.
+
+
+
+Finally 
+3.This is 3rd commit.
