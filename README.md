@@ -26,3 +26,8 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+
+COMMIT 1
+COMMIT 2
+COMMIT 3
