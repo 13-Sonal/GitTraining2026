@@ -26,3 +26,7 @@ OR
 - Clone the repo
 - Create a feature branch
 - Push directly to the repo
+
+Sahil Patil
+Jan 7, 2026
+Interested Projects: Social Platforms, EdTech, ECommerce
