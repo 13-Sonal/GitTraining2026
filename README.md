@@ -7,6 +7,6 @@ Instructions:
 - Push the branch and raise a Pull Request
 
 
-Name: Tanush Abhinav Shah
-Date: 07/01/2026
+Name: Tanush Abhinav Shah <br>
+Date: 07/01/2026 <br> 
 Interested Project: Data Science & Machine Learning related projects like Predictive Analytics of a company.
