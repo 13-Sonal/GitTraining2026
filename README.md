@@ -9,20 +9,38 @@ Instructions:
 
 Cloning - 
 
-- Fork the repo
-- git clone https://github.com/<your-username>/GitTraining2026.git
-- cd GitTraining2026
-- git remote add upstream https://github.com/13-Sonal/GitTraining2026.git
-- git checkout -b feature/my-branch
-- git add .
-- git commit -m "My changes"
-- git push origin feature/my-branch
+Name: Vishesh Chandok  
+Date: 07-01-2026  
+Interested Project: Data Analytics / Machine Learning based projects
 
 
-OR
+# Git Undo Practice: Reset vs Revert
 
-- Add your GitHub username in the shared Google Sheet https://docs.google.com/spreadsheets/d/1_-4DjvEu5UyafY_bnPl8fmn3XPh62P-ZRIqZGzdAIbA/edit?gid=0#gid=0
-- Wait for collaborator access
-- Clone the repo
-- Create a feature branch
-- Push directly to the repo
+This project was created to demonstrate how to safely handle mistakes in a Git repository. I intentionally committed an error to practice two different recovery methods: `git reset --soft` and `git revert`.
+
+## The "Mistake"
+I committed a file where I divided a integer with 0.
+
+---
+
+## Method Used: git revert
+
+For the final submission, I chose to use `git revert`.
+
+### Why I chose Revert over Reset:
+1. **Preserving Context:** Reverting allows me to keep the record of the mistake. In a learning environment, this is helpful to show the "before and after" of how the bug was handled.
+2. **Public History:** Since this repo is intended for Openverse/GitHub, using `revert` ensures that anyone who has already pulled the code won't experience a "broken" history (which happens if you delete commits using reset).
+
+---
+
+## Command Breakdown
+
+### 1. git reset --soft
+* **The Logic:** This "undoes" the commit but leaves the faulty code in my staging area. 
+* **Scenario:** I would use this if I realized I forgot to add a `rescue` block *before* I pushed my code to the main branch.
+
+### 2. git revert
+* **The Logic:** This creates a new "inverse" commit. If the original commit added `x / 0`, the revert commit effectively removes it while moving the project forward.
+* **Scenario:** Best for fixing the crash after the code has already been shared with the team.
+
+---
