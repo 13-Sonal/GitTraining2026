@@ -7,4 +7,8 @@ This repo is used for Git training.
 
 # First commit
   name = Soham Hemant Utpat
+
+# Second commit
+  age = 22
+  Hometown = Pandharpur  
   
