@@ -1,0 +1,5 @@
+Initial file for squash commit demo	
+
+Second small change
+
+Third small change
