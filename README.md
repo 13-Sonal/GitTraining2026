@@ -17,6 +17,5 @@ This repo is used for Git training.
   place : Lonavala  
   
 
-# Wrong commit
- The commit is made mistakenly.
-   
+# wrong commit
+  by mistake the commited wrong
